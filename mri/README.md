@@ -88,7 +88,7 @@ MRI has navigated the following market environments:
 | [Risk Appetite Summary](schemas/07_risk_appetite_summary_daily.md) | ✓ | ✓ | ✓ |
 | [Macro Context](schemas/10_macro_context_daily.md) | ✓ | ✓ | ✓ |
 | [Data Quality Summary](schemas/12_data_quality_summary_daily.md) | ✓ | ✓ | ✓ |
-| [Market Index OHLC](schemas/market_index_ohlc_daily.md) | ✓ | ✓ | ✓ |
+| [Market Index OHLC](schemas/13_market_index_ohlc_daily.md) | ✓ | ✓ | ✓ |
 | **Premium Views** | | | |
 | [Market Breadth Structure](schemas/04_market_breadth_structure_daily.md) | | | ✓ |
 | [Trend Convergence](schemas/05_trend_convergence_daily.md) | | | ✓ |
