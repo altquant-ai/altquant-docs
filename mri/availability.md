@@ -26,7 +26,7 @@ This product is intended to operate upstream of securities selection and portfol
 | [Risk Factor Z-Scores](schemas/09_risk_factor_zscores_daily.md) | | | ✓ |
 | [AI Market Narrative](schemas/11_market_regime_quantgpt_daily.md) | | | ✓ |
 | | | | |
-| **History** | 12 months | Jan 2020 - Present | Jan 2020 - Present |
+| **History** | 36 months | Jan 2020 - Present | Jan 2020 - Present |
 | **Refresh** | 30-day delay | After market close | After market close |
 | **Total Views** | 7 | 7 | 13 |
 

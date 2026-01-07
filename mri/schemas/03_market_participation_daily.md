@@ -13,8 +13,8 @@ One row per trading day per index. Primary key is market_date + index_name.
 Refresh is daily after US market close.
 
 Coverage:
-- Trial: Last 12 months with 30-day delay
-- Core/Premium: Full history from January 2020
+- Trial: 36-month rolling (T-30 delay)
+- Core/Premium: Full history from Jan 2020
 
 ## Signal Characteristics
 
